@@ -9,7 +9,7 @@ debian10支持，ubuntu20.04支持，centos不支持，懒……，只是为了�
 
 apt install wget unzip -y
 
-wget https://raw.githubusercontent.com/kakaruoterl/vless_install/master/vless.zip
+wget https://raw.githubusercontent.com/kakaruoterl/vless_gtrde7/master/vless.zip
 
 unzip vless.zip && chmod +x vless_config.sh && ./vless_config.sh
 
